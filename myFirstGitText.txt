@@ -1,1 +1,2 @@
 Hi, This is my first Git text project
+Hi again!! This file has a new line of text
