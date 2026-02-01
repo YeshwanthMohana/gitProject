@@ -2,3 +2,4 @@ Hi, This is my first Git text project
 Hi again!! This file has a new line of text
 
 Hi!! to my collaboratoe
+Hello, I am making changes as well :D
